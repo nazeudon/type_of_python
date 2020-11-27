@@ -51,8 +51,8 @@ y = add(1.11 + 2.22)  # Pylance Error
 
 
 # STEP2-2
-def print_sternheim_description(word: str) -> None:
-    print(f"シュテンハイムは{word}です")
+def print_Stroheim_description(word: str) -> None:
+    print(f"シュトロハイムは{word}です")
 
 
-print_sternheim_description("不死身")  # シュテンハイムは不死身です
+print_Stroheim_description("不死身")  # シュトロハイムは不死身です
